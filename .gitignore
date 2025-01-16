@@ -1,0 +1,11 @@
+/target/
+.project
+.settings
+.mtj.tmp/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+.classpath
+ MANIFEST.mf
